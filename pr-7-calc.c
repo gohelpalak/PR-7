@@ -1,6 +1,4 @@
 /*
-
-Questions:
 Q.1 Write a menu-driven program to implement arithmetic operations such as +, -, *, /, and % using UDF, switch case, and looping. Make sure that the program is endless until a certain letter is pressed.
 */
 #include<stdio.h>
